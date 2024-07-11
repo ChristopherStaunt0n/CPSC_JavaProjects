@@ -1,5 +1,7 @@
 # CPSC_JavaProjects
 
+Various Java projects made during my time at CNU.
+
 Use below line of code in terminal to run: 
 
 
